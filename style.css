@@ -1,0 +1,28 @@
+.page{
+    width: 800px;
+    margin: 5px auto;
+}
+.avatar{
+    padding: 15px;
+    width: 200px;
+    height: 200px;
+}
+.header{
+    display: flex;
+    column-gap: 40px;
+    align-items: center;   
+}
+.name{
+    padding: 15px;
+    font-size: 20px;
+}
+.fio{
+    font-weight: bold;
+}
+.contacts{
+    padding: 15px;
+    font-size: 20px;
+}
+.contacts_header{
+    font-weight: bold;
+}
